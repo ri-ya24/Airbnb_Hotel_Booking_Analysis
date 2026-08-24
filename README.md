@@ -1,4 +1,4 @@
-# 🏠 NYC Airbnb Data Analysis & Business Insights
+#  Airbnb Data Analysis & Business Insights
 
 An end-to-end Data Analytics project performing Exploratory Data Analysis (EDA) on 100k+ NYC Airbnb listings to uncover pricing dynamics, geographic trends, host behavior, and customer ratings.
 
